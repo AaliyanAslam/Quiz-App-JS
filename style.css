@@ -41,3 +41,8 @@ body {
     transform: scale(1);
   }
   
+
+  .option-btn{
+
+margin-right: 5px;
+  }
